@@ -1,5 +1,7 @@
+package kata.tennis.imperative;
+
 import junit.framework.TestCase;
-import kata.tennis.TennisGame;
+import kata.tennis.imperative.TennisGame;
 
 public class TennisGameTest extends TestCase {
 

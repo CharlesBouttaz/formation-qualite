@@ -1,4 +1,4 @@
-package kata.tennis;
+package kata.tennis.imperative;
 
 public class TennisGame {
 
